@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar{
+  /* display: flex;
+  justify-content: space-around;
+  align-items: center;
+  */
+  background-color: rgb(207, 207, 207);
+  /* ul{
+    list-style: none;
+    a{
+      padding: 15px;
+    }
+  } 
+  .log_reg{
+    div{
+      padding: 10px;
+    }
+  } */
+}
+.register, .login{
+  form div{
+    margin: 10px;
+  }
+
+}
